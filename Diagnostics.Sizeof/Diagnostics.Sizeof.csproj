@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Estimate RAM usage of any managed object.</Description>
+    <PackageProjectUrl>https://www.codeproject.com/Tips/876878/Calculating-Optimistic-Memory-Footprint-of-Managed</PackageProjectUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Copyright>Piotr Falkowski (c) 2018</Copyright>
+    <Authors>Piotr Falkowski</Authors>
+    <Company />
+    <RepositoryUrl>https://github.com/PFalkowski/Diagnostics.Sizeof</RepositoryUrl>
+    <PackageTags>RAM,memory,usage</PackageTags>
   </PropertyGroup>
 
 </Project>
